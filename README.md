@@ -2,5 +2,5 @@
 
 ## Table Of Contents
 
-1. [Cats 2](#Cats_2/README.md)
+1. [Cats 2](#https://github.com/Jhayrolandero/THM-Write-Ups/blob/main/Cats_2/README.md)
 
