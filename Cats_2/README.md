@@ -4,8 +4,8 @@ My refresher and my first CTF challenge in THM
 
 ## Table Of Contents
 
-1. [Flag 1](#flag1)
-2. [Flag 2](#flag2)
+1. [Flag 1](#flag-1)
+2. [Flag 2](#flag-2)
 ---
 # Steps
 
