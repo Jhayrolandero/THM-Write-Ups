@@ -4,8 +4,8 @@ My refresher and my first CTF challenge in THM
 
 ## Table Of Contents
 
-1. [Flag 1](#flag1)
-2. [Flag 2](#flag2)
+1. [Flag 1](#flag-1)
+2. [Flag 2](#flag-2)
 ---
 # Steps
 
@@ -39,7 +39,7 @@ Opening port 3000 i got redirected to Gitea
 ![alt text](image-7.png)
 
 ---
-# Flag 1 {#flag1}
+# Flag 1
 Quick scanning i found the First Flag
 
 ![alt text](image-9.png)
@@ -59,7 +59,7 @@ first i tried to ls to show the directory contents
 Viola! i got the 2nd Flag
 
 ---
-# Flag 2 {#flag2}
+# Flag 2
 
 Then i tried to cat flag2.txt giving me this 
 
